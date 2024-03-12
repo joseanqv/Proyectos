@@ -1,0 +1,45 @@
+[33mcommit e6ff92ae05bea2f04cffe236122bb0d507f05512[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Jose <joseanqv@gmail.com>
+Date:   Tue Mar 12 10:43:50 2024 -0500
+
+    Prueba 2
+
+[1mdiff --git a/Hola2.txt b/Hola2.txt[m
+[1mindex 2a21c37..0adf70a 100644[m
+[1m--- a/Hola2.txt[m
+[1m+++ b/Hola2.txt[m
+[36m@@ -1,5 +1,2 @@[m
+ Hola 2[m
+[31m-2[m
+[31m-2[m
+[31m-2[m
+ 2[m
+\ No newline at end of file[m
+
+[33mcommit 6d0d5a89e2b55a5606a943ad49b92dd29429785f[m
+Author: Jose <joseanqv@gmail.com>
+Date:   Tue Mar 12 10:41:07 2024 -0500
+
+    Mi primer commit hecho ahora
+
+[1mdiff --git a/Hola1.txt b/Hola1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e9ef93d[m
+[1m--- /dev/null[m
+[1m+++ b/Hola1.txt[m
+[36m@@ -0,0 +1,3 @@[m
+[32m+[m[32mHola[m[41m [m
+[32m+[m[32m1[m
+[32m+[m[32m1[m
+[1mdiff --git a/Hola2.txt b/Hola2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2a21c37[m
+[1m--- /dev/null[m
+[1m+++ b/Hola2.txt[m
+[36m@@ -0,0 +1,5 @@[m
+[32m+[m[32mHola 2[m
+[32m+[m[32m2[m
+[32m+[m[32m2[m
+[32m+[m[32m2[m
+[32m+[m[32m2[m
+\ No newline at end of file[m
